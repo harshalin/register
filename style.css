@@ -1,0 +1,10 @@
+body{
+	justify-content: center;
+	background-image: url(dd.jpeg);
+	background-repeat: no-repeat;
+	background-size: 900px 800px;
+}
+.h2{
+    display: flex;
+	justify-content: center;
+}
